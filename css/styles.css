@@ -27,6 +27,7 @@
     width: 100%;
     height: 30px;
     top: 0px;
+    background-size: cover;
 }
 
 .pph p {
@@ -36,7 +37,8 @@
 
 .nav {
     background-color: #BFBFBF;
-    width: 1280px;
+    background-size: cover;
+    
     height: 50px;
     margin: auto;
     text-align: center;
